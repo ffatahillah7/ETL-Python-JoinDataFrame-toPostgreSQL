@@ -10,7 +10,7 @@ Download Dataset file :
 ## Goals of the Project:
 
 1.  Extract dataset from various files such as csv, excel, parquet, json, etc.
-2.  Tranform using python (I used jupyter notebook) and pandaSQL as Library. PandaSQL have a query like common query in SQL Languages on Python.
+2.  Transform using python (I used jupyter notebook) and pandaSQL as Library. PandaSQL have a query like common query in SQL Languages on Python.
 3.  Join The dataframe and filter it to specific values.  
 4.  Load the result to PostgreSQL using SQLAlchemy library on Python.
 
